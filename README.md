@@ -15,8 +15,8 @@ My homelab needed improvements.  I needed more control and the ability to easily
 ### Tools Used
 
 - pfSense
-- Splunk
-- Elastic
+- Splunk <-- Expired trial.
+- Elastic  <-- Splunk replacement.
 - Security Onion
 - Kali/Parrot OS
 - Windows 2019 Server
