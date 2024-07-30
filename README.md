@@ -24,7 +24,7 @@ My homelab needed improvements.  I needed more control and the ability to easily
 
 ## Steps
 
-Full write up still in progress.  I miss a couple of important screenshots when deploying the environment. 
+Full write up still in progress.  I missed a couple of important screenshots when deploying the environment. 
 I will re-deploy a whole new lab soon and make sure to get proper documentation setup.
 
 *Ref 1: Network Diagram*
